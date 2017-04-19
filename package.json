@@ -1,0 +1,25 @@
+{
+  "name": "jud-template-compiler",
+  "version": "0.0.1",
+  "dependencies": {
+    "he": "^1.1.0"
+  },
+  "description": "jud template compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkiding/jud-template-compiler.git"
+  },
+  "keywords": [
+    "jud"
+  ],
+  "author": "vkiding",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vkiding/jud-template-compiler/issues"
+  },
+  "homepage": "https://github.com/vkiding/jud-template-compiler#readme"
+}
